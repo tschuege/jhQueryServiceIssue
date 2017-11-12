@@ -7,6 +7,7 @@ To demonstrate an issue with *QueryService / JPA classes not generated
     * Monolithic Application
     * JWT Auth
     * mySQL (also in DEV)
+    * Gradle
 * jhipster import-jdl ./entities.jh -> contains one entity "Customer" and "filter all"
 * open application in Intellij IDEA
 * run build -> not successful

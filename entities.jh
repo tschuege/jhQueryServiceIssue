@@ -1,0 +1,6 @@
+entity Customer {
+	name String required
+}
+
+service all with serviceImpl
+filter all
